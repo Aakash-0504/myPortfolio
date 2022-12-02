@@ -1,19 +1,19 @@
 export const SocialData=[
     {
         platform:"Twitter",
-        link:"www.profilelinkgoeshere",
+        link:"https://twitter.com/Aakash_0504",
         icon: require("../icons/twitter.png"),
 
     },
     {
         platform:"linkedin",
-        link:"www.profilelinkgoeshere",
+        link:"https://www.linkedin.com/",
         icon: require("../icons/linkedin.png"),
 
     },
     {
         platform:"Github",
-        link:"www.profilelinkgoeshere",
+        link:"https://github.com/Aakash-0504",
         icon: require("../icons/github.png"),
 
     },

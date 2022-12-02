@@ -10,7 +10,7 @@ function contact() {
       <label className='section-title'>Contact</label>
       <div className="contact-container">
         <div className="contact-left">
-          <p>contact me </p>
+          <p>Contact me </p>
           <SocialContact/>
         </div>
         <div className="download">
